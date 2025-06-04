@@ -162,5 +162,7 @@ The differences :
 3.	Visibility 	      : In HTTP GET its visible in browser address bar. 
                                   In HTTP POST it is not shown in the address bar.
 
- 
+
+
+ https://github.com/Syedmannan22/waph-syedmannan22/blob/main/labs/lab1/s1%20CGI%20Program%20is%20invoked%20properly%20in%20the%20browser.png
 
