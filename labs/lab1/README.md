@@ -93,7 +93,7 @@ A. To develop a basic PHP page i created a file name helloworld.php. This functi
 I saved file to my local lab directory and then copied it to Apache root directory using command : sudo cp helloworld.php /var/www/html/ and after deployment, i accessed in the browser http://localhost/helloworld.php
 
 B. Echo Web Application
-I created a PHP script named echo.php, which takes input from the user and echoes it back. I also tested this by accessing the file in a browser and passing my name as a parameter using a GET request in the URL: http://localhost/echo.php?data=SYEDMANNAN.  The browser displayed the input value, confirming that the server correctly handled the user input. I deployed the file by running using command sudo cp echo.php /var/www/html.
+I created a PHP script named echo.php, which takes input from the user and echoes it back. I also tested this by accessing the file in a browser and passing my name as a parameter using a GET request in the URL:http://localhost/echo.php?data=SYEDMANNAN](https://github.com/Syedmannan22/waph-syedmannan22/blob/main/labs/lab1/.png).  The browser displayed the input value, confirming that the server correctly handled the user input. I deployed the file by running using command sudo cp echo.php /var/www/html.
 
 Task 3 : Understanding HTTP GET and POST request 
 A. Examining HTTP GET Request and Response using Wireshark
