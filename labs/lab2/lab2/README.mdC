@@ -1,0 +1,3 @@
+pandoc README.md -o syedmannan-waph-lab2.pdf
+
+
