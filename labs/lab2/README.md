@@ -95,9 +95,9 @@ I created a file named waph-karlas2.html and added basic HTML structure includin
   <i>Inlined JavaScript</i>
   <div id="date" onclick="document.getElementById('date').innerHTML=Date()">Click here to show Date()</div>
 ```
-![onkeypress action](images/onclick.png)  
+![onkeypress action](images/onkeypress.png)  
 
-![onclick action](images/onclick_date.png)  
+![onclick action](images/onclickdata.png)  
 
 2. JavaScript for digital clock in a `<script>` tag
   - Created a `<div> with id="digit-clock"`.
