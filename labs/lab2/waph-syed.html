@@ -95,6 +95,11 @@
             });
             $("#ajax-input").val('');
         }
+        async function guessAge(name) {
+    const response = await fetch("https://api.agify.io/?name="+name);
+    const result = await response.json();
+    $('#response').html("Hi "+ name + ", your age shouls be "+ result.age);
+  }
     </script>
 </head>
 
@@ -158,6 +163,7 @@
                 <input class="button round" type="button" value="AJAX Echo (JS)" onclick="getEcho()">
                 <input class="button round" type="button" value="jQuery Ajax GET Echo" onclick="jqGetEcho()">
                 <input class="button round" type="button" value="jQuery Ajax POST Echo" onclick="jqPostEcho()">
+                <input class="button round" type="button" value="guess Age" onclick="guessAge($('#data').val())">
                 <div id="response"></div>
             </div>
 
@@ -169,6 +175,13 @@
             <div id="datetime" onclick="document.getElementById('datetime').innerHTML = Date()">
                 Click here to show Date()
             </div>
+            <div id="joke"></div>
+<script>
+  $.get("https://v2.jokeapi.dev/joke/Programming?type=single", function(result){
+    console.log("From jokeAPI: "+ JSON.stringify(result));
+    $("#joke").html("A Programming Joke of the day: " + result.joke);
+  });
+</script>
         </div>
     </div>
 </div>

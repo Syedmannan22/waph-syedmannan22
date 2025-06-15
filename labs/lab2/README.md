@@ -20,17 +20,17 @@ In **Task 2**, I learned how to dweb page by integrating dynamic front-end featu
 
 This lab deepened my understanding of both client-server web communication and basic web application programming.
 
-View my lab1 folder on GitHub: [https://github.com/saketh-nandan-reddy/waph-saketh/tree/main/labs/lab2](https://github.com/saketh-nandan-reddy/waph-saketh/tree/main/labs/lab2)
+View my lab1 folder on GitHub: [https://github.com/Syedmannan22/waph-syedmannan22/tree/main/labs/lab2](https://github.com/Syedmannan22/waph-syedmannan22/tree/main/labs/lab2)
 
 ## Task 1: Basic HTML with forms, and JavaScript
 
 ####  a. HTML 
-I created a file named waph-karlas2.html and added basic HTML structure including:
+I created a file named waph-syed.html and added basic HTML structure including:
 - My name and course information
 - An image of my headshot (150px)
 - Two forms to demonstrate HTTP GET and POST methods
 
-`waph-saketh.html`
+`waph-syed.html`
 
 ```HTML
 <!DOCTYPE html>
