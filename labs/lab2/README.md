@@ -8,7 +8,7 @@
 
 **Email**: [karlas2@udayton.edu](mailto:karlas2@udayton.edu)
 
-![Saketh's headshot](images/saketh-headshot.png)
+![Saketh's headshot](images/syed.jpeg)
 
 ## Lab 2 Overview
 
