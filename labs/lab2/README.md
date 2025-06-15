@@ -4,11 +4,11 @@
 
 ## Student
 
-**Name**: Saketh Nandan Reddy Karla
+**Name**: Abdul Mannan Syed
 
-**Email**: [karlas2@udayton.edu](mailto:karlas2@udayton.edu)
+**Email**: [syeda45@udayton.edu](mailto:syeda45@udayton.edu)
 
-![Saketh's headshot](images/syed.jpeg)
+![Abdul Mannan headshot](images/syed.jpeg)
 
 ## Lab 2 Overview
 
@@ -38,7 +38,7 @@ I created a file named waph-karlas2.html and added basic HTML structure includin
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>WAPH-Saketh</title>
+  <title>WAPH-mannan22</title>
 </head>
 <body>
 <div id="top">
@@ -47,7 +47,7 @@ I created a file named waph-karlas2.html and added basic HTML structure includin
   <h3>Instructor: Dr. Phu Phung</h3>
 </div>
 <div id="memubar">
-  <h3>Student: Saketh Nandan Reddy Karla</h3>
+  <h3>Student: Abdul Mannan Syed</h3>
 </div>
 <div id="main">
   <p>A simple HTML page</p>
