@@ -1,5 +1,7 @@
-<?php
-  $input = $_GET['input'];
-  echo htmlspecialchars($input, ENT_QUOTES, 'UTF-8');
+<?php 
+if (!isset($_REQUEST["data"])) { 
+    die("{\"error\": \"Please provide 'data' field\"}"); 
+} 
+echo htmlentities($_REQUEST["data"]); 
 ?>
 
