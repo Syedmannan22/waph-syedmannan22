@@ -1,4 +1,5 @@
 <?php
-echo "Hello from PHP!";
+  $input = $_GET['input'];
+  echo htmlspecialchars($input, ENT_QUOTES, 'UTF-8');
 ?>
 
