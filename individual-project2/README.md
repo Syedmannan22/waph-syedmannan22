@@ -8,7 +8,7 @@
 
 **Email**: [syeda45@udayton.edu](mailto:syeda45@udayton.edu)
 
-![Abdul Mannan headshot](image/syed.jpeg)
+![Abdul Mannan headshot](images/syed.jpeg)
 
 ## Project 2 Overview
 
@@ -39,7 +39,7 @@ Through this project, I gained hands-on experience in:
 
 The project source code, including all PHP, HTML, CSS, and SQL scripts, is available on my **private GitHub repository** for grading:
 
-View my lab1 folder on GitHub: [https://github.com/Syedmannan22/waph-syedmannan22/tree/main/project2](https://github.com/Syedmannan22/waph-syedmannan22/tree/main/project2)
+View my project 2 folder on GitHub: [https://github.com/Syedmannan22/waph-syedmannan22/tree/main/individual-project2](https://github.com/Syedmannan22/waph-syedmannan22/tree/main/individual-project2)
 
 Additionally, I have recorded a **5-minute demonstration video** showcasing:
 
